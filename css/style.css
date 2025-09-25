@@ -1,0 +1,43 @@
+@import url("reset.css");
+
+* {
+	color: rgb(79, 76, 76);
+}
+
+
+.title {
+	color: cornflowerblue;
+}
+
+.block>p {
+	color: red;
+}
+
+ul>li {
+	color: rgb(245, 161, 7);
+}
+
+ul>li a {
+	color: greenyellow;
+}
+
+.list>li span {
+	color: blueviolet;
+}
+
+main h2 {
+	color: goldenrod;
+}
+
+.block ol li {
+	color: yellow;
+}
+
+
+div .text {
+	color: red;
+}
+
+.footer p {
+	color: blue;
+}
