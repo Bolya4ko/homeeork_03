@@ -13,6 +13,10 @@
 	color: red;
 }
 
+.title+.text {
+	font-size: 30px;
+}
+
 ul>li {
 	color: rgb(245, 161, 7);
 }
@@ -34,10 +38,16 @@ main h2 {
 }
 
 
+
 div .text {
 	color: red;
 }
 
 .footer p {
 	color: blue;
+}
+
+.block~p {
+	font-size: 20px;
+	color: rebeccapurple;
 }
